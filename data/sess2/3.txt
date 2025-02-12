@@ -1,0 +1,132 @@
+When Duolingo was
+starting out, we were
+all sitting in one room.
+We didn’t have formal Product Reviews, or OKRs, or
+any of the structure we have today. There was no
+blueprint because no other learning app was doing
+what we were trying to do. We were—for better or
+worse—making things up as we went along.
+We were also fast as hell. And the pace of our
+experimentation allowed us to quickly figure out what
+was working, and ditch what wasn’t. This applied
+across everything: product, hiring, engineering, and
+our business as a whole. We were testing and learning
+at warp speed.
+It’s still like this even today. We ship new versions of our iOS
+and Android apps every week. And we’re running hundreds of
+experiments* across the company at any given time. Duolingo
+goes nowhere without this principle. “Ship It” keeps us ahead of
+our competitors; “Ship It” makes Duolingo a fun place to work;
+“Ship It” ensures that our product never sits still.
+Go, Go, Go!
+Duolingo is the sum of thousands of experiments. The faster
+we can run experiments—successful or not—the faster we
+can improve the app and advance our mission. Over time, each
+of these changes builds on one another, creating a cycle of
+compounding growth.
+Shipping fast also lets us avoid lengthy debates and guesswork
+about what we should be doing. That’s because testing in
+the real world gives us better information than any internal
+discussion ever could. So, we move quickly—to start these
+feedback loops and let real data guide our work.
+Clock Speed
+“Clock speed” is a mindset that drives how we work. The concept
+comes from microprocessor technology, where clock speed
+measures how quickly a system can process instructions. We use
+the term to talk about minimizing the gaps between actions: the
+time between when a decision is made and when it’s implemented,
+or when feedback is given and changes are made.
+Experiments: Experiments are tests to see what works and what doesn’t. A/B tests are
+a specific type of experiment where we simultaneously run two or more options against
+one another.
+34 35
+
+Ruthless Prioritization
+As much as we want to move fast and increase clock
+speed, we always need to make sure we’re working
+on the right thing. At Duolingo, prioritization is
+sometimes described as “ruthless:” we are decisive
+about what we focus on as a company, based on what
+will have the largest impact on our learners.
+Deciding what to prioritize starts with clearly defined
+goals. For every initiative, we ask: How does this
+contribute to our mission? What measurable outcomes
+will it drive? And if something doesn’t move the needle
+in a meaningful way, it’s cut—no matter how much
+effort has already gone into it. One high-impact win
+always outweighs a handful of small scattered efforts.
+Increasing clock speed helps us reduce idle time and
+make sure that the most important projects actually
+get done. We should almost never have to wait a
+month to see the next iteration of a project. The more
+we can close these gaps, the faster we ship it, and
+the faster we can learn and improve. It’s not about
+rushing—it’s about never letting a break in the chain
+slow us down.
+This mindset extends to our product. We cut features that don’t
+deliver value, remove unnecessary complexity, and stay laserfocused
+on our mission. Letting go of what’s not effective is often
+as powerful as creating something new.
+PR: Product Review. The meeting where we green-light every
+change to the app. Led by the Product Org, but anyone can listen in!
+Shipping the Org
+As teams grow and become more specialized, there’s a risk that our product will mirror the
+organization’s structure rather than delivering a seamless experience for learners. This
+is called “shipping the org.” For example, the tabs across the app—like Leaderboards and
+Profile—are managed by different teams, each with distinct goals. Over time, this has led
+to inconsistencies in their design. To counter this, we always need to consider the holistic
+experience across the app.
+36 37
+
+Culture of Experimentation The Right Amount of Process
+“Ship It” isn’t just about speed; it’s about creating
+as many opportunities as possible to learn and
+improve. We like to play around, run a little wild—and
+sometimes fail. But each experiment brings us closer
+to seeing what works.
+As Duolingo grows, staying agile becomes more challenging. We
+need guardrails and processes to keep things from spiraling out
+of control, but we also want to avoid unnecessary red tape. The
+question is: How can we add the right processes without slowing
+ourselves down?
+Good processes should reduce workloads, improve quality, and
+lead to better decisions. One example of this is Product Review
+(PR). In the early days, Luis often made product decisions
+during informal meetings, which sometimes got messy. Not all
+stakeholders were included or informed; even worse, it wasn’t
+always clear if decisions were binding or if Luis was just musing.
+We needed a better approach.
+Taking inspiration from engineering’s code review process, we
+introduced a formal structure for Product Review. Today, PR
+ensures that everyone is clear on what decisions were made, and
+that all relevant stakeholders are informed. The meeting also
+includes a rotating group of leaders from Product and Design
+who weigh in, ensuring diverse perspectives.
+The success of PR has set a precedent for other teams.
+Marketing, for instance, has adopted a Marketing Review, which
+brings the same clarity and alignment to their campaigns. These
+processes help us maintain our quality bar—and make faster
+and visible decisions across the company.
+99 Bad Ideas
+Some of our best features and campaigns have come
+from asking ridiculous, unlikely questions. We practice
+this at leadership offsites during a tradition we call
+“99 Bad Ideas,” where we brainstorm outrageous
+concepts—like Duo’s latest hijinks, or changing our
+stock ticker to LILY.
+But this spirit extends across the organization,
+where we make space for challenging assumptions
+and asking bold questions. What if you could talk
+with Duolingo characters? What would Duo do with
+five seconds at the Super Bowl? What if language
+certification tests could be taken at home? Over
+the years, these types of questions have helped us
+consistently uncover new opportunities to delight our
+learners and advance our mission.
+Navigating Trade-offs
+There’s a natural tension between “Raise the Bar” and “Ship It.” When they clash, our mission
+is a great guide. The question is: How will this decision improve education and make it more
+accessible? Often, it means letting go of perfection. Generative AI, for example, lets us create
+content at a speed and scale we never thought possible. Early versions aren’t perfect, but they
+deliver value to millions now—and the quality will improve over time.
+38 39

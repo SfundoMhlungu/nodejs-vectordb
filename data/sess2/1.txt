@@ -1,0 +1,193 @@
+Letter from Luis
+Duolingo is a quirky place.
+Our culture wasn’t copied from a tech startup playbook. It was
+built from scratch by a few dozen nerds in an office above a
+sports bar in Pittsburgh, Pennsylvania.
+For most of our early employees, Duolingo was their first real
+job. Without much experience, we had to experiment our way
+through the basic questions: Who should we hire? What’s the
+best way to build an app? How should we organize ourselves
+to build it? Doing it this way took time. But in the end, nothing
+could have been better for our culture and success.
+Over time, we’ve sharpened our answers to these questions and
+many more. Now, fourteen years in, we’ve decided to put these
+answers into writing, and articulate how we do things.
+At the center of this book are five principles. These aren’t
+aspirational—they’re lessons we've learned through experience.
+But they’re also living ideas: they have tensions within them, and
+there are places where they don’t always fit. We hope you study
+them, challenge them, and help us make the next version of this
+book even better.
+Thanks for reading.
+And welcome to Duolingo.
+— Luis
+
+TL;DR
+• We’re building a forever product that puts long-term user
+retention first.
+• We hire exceptional people who will grow with Duolingo and
+shape its future for years to come.
+• We’re creating a 100-year brand with delightful, quirky
+characters that become a part of learners’ lives.
+• We lead with the results of our work, not the story of its
+effort.
+• Our products don’t have to explain themselves—they should
+be intuitive to everyone.
+• When we disagree, we test ideas and let the metrics decide.
+• Our product is built on play, using gamification and design to
+make learning fun.
+• Our brand is wholesome but unhinged: we lean into what
+makes our fans laugh, even if not everyone gets the joke.
+• We design our offices and culture to be quirky and
+welcoming, sparking joy and connection among Duos.
+The Green Machine is our approach to building things:
+• Staff it with great people
+• Define success
+• Set guardrails and think long-term
+• Build the thing and set up feedback loops
+• Execute with urgency and excellence
+• Double down on what works, stop what doesn’t
+• Every feature we ship must be intuitive, delightful, useful,
+and polished.
+• We make sure critical tasks have a clear owner.
+• We constantly dogfood our products to identify bugs and
+propose improvements.
+• We give candid feedback that focuses on the “what” and
+not the “who.”
+• We optimize “clock speed,” minimizing gaps between steps to
+maintain momentum.
+• We run hundreds of experiments each week in order to
+constantly improve our products and our organization.
+• We ruthlessly prioritize projects with the highest impact and
+quickly cut what isn’t working.
+• We’ll only introduce a new process if it helps us make faster,
+better decisions.
+Take the
+
+Duolingo was never
+going to be a sprint.
+It wasn’t a quick experiment, or a weekend side hustle.
+We knew that building the best education app in the
+world would be a multidecade effort—and that it
+would require patience. But patience—that is, taking
+the long view—is hard.
+Take advertising. We could increase revenue
+tomorrow by showing more ads in the app. But we
+know that too many ads can annoy users and stifle
+long-term growth, potentially compromising our goal
+of making the best education universally available.
+This is a real trade-off. But over and over, we’ve taken
+the long view. We have to: our goals are too big to
+think any other way.
+Not every company is able to operate like this. But we had a few
+early advantages that made taking the long view possible. For
+one, Luis had already sold his first company, reCAPTCHA, in
+2009. As he put it: “This gave me the flexibility and perspective
+to think about our mission first and foremost.”
+So we set out to build something groundbreaking—the kind
+of educational tool our children and grandchildren might still
+be using. The clarity of this vision, along with the trust of
+our earliest investors, gave us leeway as we figured out what
+Duolingo could be. Equally important: we hired folks who were
+just as crazy about our mission. Back then, many of them could
+have doubled their salaries working at bigger tech companies.
+But they didn’t come here to make a quick buck—they came here
+to build the best learning tool on the planet.
+The temptation of short-term wins can be powerful. We had a
+simple mantra in the early days: “Don’t do dumb s**t.” Looking
+back, this was the first version of “Take the Long View.” We knew
+that to have any shot at meaningful success, we had to steer
+clear of gimmicks and tricks that might seem helpful in the
+short-term but hurt us down the road.
+In the Beginning
+Don’t Do Dumb S**t
+10
+
+Building a Forever Product
+The Duolingo app is designed to be sticky in the shortterm
+and transformative in the long-term. For years,
+we’ve focused on building something so useful and
+delightful that it becomes an essential part of our
+learners’ lives.
+Learning—particularly language learning—requires
+regular practice over extended periods of time. That’s
+why we prioritize user retention, and have spent years
+perfecting the Streak feature. The more we can do to
+keep our learners committed for the long haul, the
+more value they’ll get from Duolingo.
+We also invest in teaching better. Even though this
+doesn’t generate immediate revenue, we know that if
+a product fails to deliver on its promise, people will
+eventually stop using it.
+Notifications
+Juicy
+Every day, Duolingo sends millions of messages to learners.
+These notifications present a fundamental tension between
+long-term thinking and short-term goals.
+More notifications leads to more Daily Active Users (DAUs)*
+in the short-term. But people who feel bombarded don’t stick
+around for long—they eventually turn off notifications or
+abandon the app entirely. That's why we put firm limits on
+notifications, regardless of what the short-term metrics suggest.
+User trust matters more than immediate gains.
+Duolingo didn’t always look like the app you see today. For years,
+it featured a light gray background, muted button colors, and a
+more robotic-looking Duo. But in 2018, a few of our designers
+and illustrators began working on a concept for a kids’ app. With
+brighter colors, rounder corners, and a cuter, friendlier Duo, the
+new design made learning feel more like a game. It was exactly
+the kind of playful experience we wanted for the main app. So,
+even though we didn’t expect it to boost metrics in the shortterm,
+we took the leap and applied this new design language—
+dubbed Juicy—across all of Duolingo.
+DAUs: Daily Active Users. The number of individuals using Duolingo every day across
+iOS, Android, and the website.
+14
+This redesign wasn’t just about aesthetics; it was an investment
+in the future. While risky and resource intensive, it set the
+foundation for the playful world that now defines our brand:
+expressive characters, delightful animations, and a learning
+experience that feels like play. By taking the long view, we
+created a design language that would scale with the product for
+years to come.
+Engineering the Future
+Becoming a Business
+In engineering, taking the long view requires a slightly
+different approach. We know that we will still be improving
+our products years from now. So, we don’t build systems to
+last forever. Instead, we test ideas quickly and only invest
+significant engineering resources when something is successful.
+If something doesn’t work, we move on quickly, keeping the
+codebase clean and minimizing waste.
+Video Call is a great example. We only invested in scaling and
+stabilizing it for long-term use once it showed traction with
+users. Another example relates to notifications. When we
+realized we’d be testing notification copy for years to come, we
+built a custom tool that allows Product Managers to test copy
+without engineering support.
+This balance—focusing on speed while reserving long-term
+investments for what truly works—has guided our success.
+For years, Duolingo didn’t make money. We were laser-focused
+on growing our user base and keeping learners engaged. Also,
+some of us worried that monetizing Duolingo could get in the
+way of our mission.
+That perspective began to shift after our Series D funding round
+in 2015. We started exploring revenue models—in-app purchases
+(IAPs), advertising, and paid subscriptions—with one key caveat:
+they could never compromise our mission. We weren’t going to
+put learning behind a paywall.
+Setting the Proficiency Standard
+When asked how much English somebody knows, we want them
+to say, “My Duolingo Score is 70.” The Duolingo Score is an
+estimate of users’ proficiency in the language they’re learning,
+and the Duolingo English Test (DET) is a way to certify the
+score that can be used for high-stakes purposes, like university
+admissions. Together, they form our two-pronged approach
+to becoming the standard measure for language proficiency.
+Putting the score in the app gives us volume—hundreds of
+millions of people see it. Having a way to certify it with the DET
+gives us credibility—the score can get you admission to even the
+most prestigious universities in the world.
+Of course, becoming the proficiency standard is not easy, and
+could take decades—but that’s exactly why the Duolingo Score
+and the DET are great examples of taking the long view
