@@ -11,8 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "benchmark": "^2.1.4",
     "better-sqlite3": "^11.8.1",
+    "gl-matrix": "^3.4.3",
     "ollama": "^0.5.13",
     "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "perf_hooks": "^0.0.1"
   }
 }

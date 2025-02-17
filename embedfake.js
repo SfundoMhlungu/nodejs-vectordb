@@ -3,8 +3,8 @@ import ollama from "ollama";
 import Database from "better-sqlite3";
 import { v4 as uuidv4 } from "uuid";
 
-const db = new Database("embedblob.db");
-// db.loadExtension("C://Users//baned//Downloads//sqlean-win-x64//uuid.dll");
+const db = new Database("embedblobfake.db");
+db.loadExtension("C://Users//baned//Downloads//sqlean-win-x64//uuid.dll");
 // db.loadExtension("C:/Users/baned/Workspace/personal/ccpp/sqliteextension/learn/sim/cosine_sim.dll")
 db.exec(`
     CREATE TABLE IF NOT EXISTS embeddings (
@@ -43,10 +43,10 @@ async function saveToDb(embeddings, meta, content) {
   const transaction = db.transaction(() => {
     const stmt = db.prepare(`
         INSERT INTO embeddings
-        VALUES (?, ?, ?, ?, ?)
+        VALUES (uuid4(), ?, ?, ?, ?)
       `);
-    const id = uuidv4()
-    stmt.run(id,meta.session, meta.name, content, embeddings);
+    // const id = uuidv4()
+    stmt.run(meta.session, meta.name, content, embeddings);
   });
 
   transaction();
@@ -60,17 +60,36 @@ async function saveToDb(embeddings, meta, content) {
 async function Embed(content, meta) {
   //   console.log(meta, content.substring(0, 20))
 
-  const res = await ollama.embed({
-    model: "mxbai-embed-large",
-    truncate: true,
-    input: content,
-  });
+//   const res = await ollama.embed({
+//     model: "mxbai-embed-large",
+//     truncate: true,
+//     input: content,
+//   });
   // console.log(res.model, res.embeddings.flat(), meta)
-  meta.model = res.model;
-  const f = new Float32Array(res.embeddings.flat())
-  // console.log(f)
+  meta.model = "pseudo";
+  const f = new Float32Array(generatePseudoEmbedding(8192));
+  console.log(f)
   // console.log(f.buffer)
-  // Buffer.from([])
+  Buffer.from([])
   saveToDb(f, meta, content);
 }
 // console.log(f)
+
+
+/**
+ * Generates a pseudo embedding vector with random values.
+ * @param {number} dimension - The desired size of the embedding.
+ * @returns {Float32Array} - The pseudo embedding vector.
+ */
+function generatePseudoEmbedding(dimension) {
+    const embedding = new Float32Array(dimension);
+    for (let i = 0; i < dimension; i++) {
+      // You can adjust the range; here we use [0, 1)
+      embedding[i] = Math.random();
+    }
+    return embedding;
+  }
+  
+//   // Example: Generate a 4096-dimensional embedding.
+//   const largeEmbedding = generatePseudoEmbedding(4096);
+//   console.log(largeEmbedding);
