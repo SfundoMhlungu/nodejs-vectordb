@@ -80,7 +80,7 @@ async function CheckSimalirity(query, sess) {
 
     // const rows = stmt.run(sess)
     // console.log(rows)
-    console.log(rows.length, "length")
+    // console.log(rows.length, "length")
     let matches = ``
     if (rows.length > 0) {
         const embedding = await EmbedUserQuery(query)
@@ -105,8 +105,8 @@ async function CheckSimalirity(query, sess) {
 
 
 async function Chat(userQuery, sess) {
-    // const query = await CheckSimalirity(userQuery, sess)
-    const query = await CheckSimalirityNative(userQuery, sess, 0.8)
+    const query = await CheckSimalirity(userQuery, sess)
+    // const query = await CheckSimalirityNative(userQuery, sess, 0.8)
     console.log("formatted query: ", query)
     // feed it to the model
     const message = { role: 'user', content: query }
